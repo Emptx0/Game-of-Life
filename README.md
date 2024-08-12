@@ -1,7 +1,7 @@
 # Game-of-Life
-Implementation of Conway's Game of Life in C++ as a console application.
+Implementation of Conway's Game of Life - a cellular automaton in C++ as a console application.
 
-![gif](https://github.com/user-attachments/assets/0f082797-5340-4448-a608-6964d62640b7)
+![](https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif)
 
 About game:
 https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
